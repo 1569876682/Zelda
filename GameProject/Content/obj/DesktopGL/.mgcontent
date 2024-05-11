@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/arrowDown.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/arrowLeft.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/arrowRight.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/arrowUp.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/Ball.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/barrier1.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/barrier2.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/barrier3.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/Boomerang1.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/Boomerang2.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/enemy.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/enemy11.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/enemy22.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/enemy33.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/enemy44.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/enemy55.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/enemy6.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/Eye.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/fire.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/fire1.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/Love.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/PlayerHurt.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/PlayerMoveDown.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/PlayerMoveLeft.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/PlayerMoveRight.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/PlayerMoveUp.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/SwordDown.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/SwordLeft.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/SwordRight.png</File>
+    <File>D:/Downloads/GameProject/GameProject/GameProject/Content/SwordUp.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

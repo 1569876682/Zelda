@@ -1,0 +1,206 @@
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.exe
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.deps.json
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.dll
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.pdb
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProj.B6B480F2.Up2Date
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.dll
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.pdb
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+D:\Prorgram\C#\GameProject\GameProject\obj\Debug\net6.0\ref\GameProject.dll
+D:\Prorgram\C#\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerRightMove.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.exe
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.deps.json
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.dll
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\GameProject.pdb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\MonoGame.Framework.dll
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CopyComplete
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.dll
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.pdb
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+E:\Programs\C#\GameProject\GameProject\obj\Debug\net6.0\ref\GameProject.dll
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveDown.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveLeft.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveRight.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveUp.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerHurt.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\barrier1.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\barrier2.xnb
+E:\Programs\C#\GameProject\GameProject\bin\Debug\net6.0\Content\barrier3.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\barrier1.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\barrier2.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\barrier3.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerHurt.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveDown.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveLeft.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveRight.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveUp.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\GameProject.exe
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\GameProject.deps.json
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\GameProject.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\GameProject.pdb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProj.B6B480F2.Up2Date
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.pdb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\obj\Debug\net6.0\ref\GameProject.dll
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\SwordDown.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\SwordLeft.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\SwordRight.xnb
+C:\Users\The_Dawn\Desktop\GameProject\GameProject\bin\Debug\net6.0\Content\SwordUp.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerHurt.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveDown.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveLeft.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveRight.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveUp.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\SwordDown.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\SwordLeft.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\SwordRight.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\SwordUp.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\GameProject.exe
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\GameProject.deps.json
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\GameProject.dll
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\GameProject.pdb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CopyComplete
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.dll
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.pdb
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+D:\Downloads\GameProject\GameProject\GameProject\obj\Debug\net6.0\ref\GameProject.dll
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\Ball.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\Eye.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\Love.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\barrier1.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\barrier2.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\barrier3.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\arrowDown.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\arrowLeft.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\arrowRight.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\arrowUp.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\fire.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\Boomerang1.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\Boomerang2.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\enemy.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\fire1.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\enemy11.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\enemy22.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\enemy33.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\enemy44.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\enemy55.xnb
+D:\Downloads\GameProject\GameProject\GameProject\bin\Debug\net6.0\Content\enemy6.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\arrowDown.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\arrowLeft.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\arrowRight.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\arrowUp.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\Ball.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\barrier1.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\barrier2.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\barrier3.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\Boomerang1.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\Boomerang2.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\enemy.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\enemy11.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\enemy22.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\enemy33.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\enemy44.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\enemy55.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\enemy6.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\Eye.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\fire.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\fire1.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\Love.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerHurt.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveDown.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveLeft.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveRight.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\PlayerMoveUp.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\SwordDown.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\SwordLeft.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\SwordRight.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\Content\SwordUp.xnb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\GameProject.exe
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\GameProject.deps.json
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\GameProject.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\GameProject.pdb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProj.B6B480F2.Up2Date
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.pdb
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+C:\Users\15698\Downloads\GameProject (2)\GameProject\GameProject\obj\Debug\net6.0\ref\GameProject.dll
